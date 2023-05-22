@@ -4,10 +4,10 @@ SyncWrite is a simple web application built with Django and WebSockets that allo
 
 ## Requirements
 
-- Django
-- channels-redis
-- uvicorn
-- websockets
+- Django>=3.2.4,<3.3
+- channels-redis==4.1.0
+- uvicorn==0.22.0
+- websockets==11.0.3
 
 ## Installation
 
